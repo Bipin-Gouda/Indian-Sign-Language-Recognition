@@ -49,5 +49,4 @@ For any queries or collaborations, reach out via:
 
 ---
 
-🌟 *If you found this project helpful, give it a star ⭐ on GitHub!*
 
